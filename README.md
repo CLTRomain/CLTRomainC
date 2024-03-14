@@ -1,4 +1,3 @@
-[![MasterHead](<IMG_7331 2.heic>)
 
 
 <h1 align="center">Hi 👋, I'm Romain CLATOT</h1>
