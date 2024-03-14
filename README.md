@@ -2,10 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Romain CLATOT</h1>
 <h3 align="center">A Passionate Developer Aspiring to be a FullStack Developper from France</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/TR9fRy1H02wAAAAd/tech.gif">
 
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d17be-8d52-4534-bc38-fdba7e57530b/710d4a3d-d273-4d63-8d50-c77579d119c1.png" /></a>
+<a align="right" href="https://wakatime.com"><img src="https://wakatime.com/share/@018d17be-8d52-4534-bc38-fdba7e57530b/20d2bec6-113a-42cd-99a4-574fe5d2929c.png" /></a>
 
 - 📫 How to reach me **romain.clatotpro@proton.me**
 
