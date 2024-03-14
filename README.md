@@ -1,4 +1,4 @@
-[![MasterHead](https://media.moddb.com/cache/images/games/1/52/51871/thumb_620x2000/Banner_Dev_Page.png)
+[![MasterHead](https://media.moddb.com/cache/images/games/1/52/51871/thumb_620x2000/Banner_Dev_Page.png)]
 
 
 <h1 align="center">Hi 👋, I'm Romain CLATOT</h1>
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/romain clatot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain clatot" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/romain-clatot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romain clatot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
