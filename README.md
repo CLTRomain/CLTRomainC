@@ -61,4 +61,4 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=CLTRomain&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLTRomain&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.CLTRomain)
